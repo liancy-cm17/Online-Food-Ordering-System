@@ -274,7 +274,7 @@
                     $_SESSION['update'] = "<div class='error'>Failed to Update Food.</div>";
                     header('location:'.SITEURL.'admin/manage-food.php');
                 }
-
+ 
                 
             }
         
